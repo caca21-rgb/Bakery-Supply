@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8eee0"/><stop offset="1" stop-color="#e8d2b8"/></linearGradient></defs>
+  <rect width="1200" height="800" fill="url(#g)"/>
+  <circle cx="600" cy="350" r="190" fill="#fff8ef" opacity=".8"/>
+  <path d="M430 420h340l-35 150H465z" fill="#b8794d" opacity=".85"/>
+  <path d="M450 415c-30-120 70-190 150-115 80-90 190-5 150 115" fill="#fff" stroke="#d9b99a" stroke-width="18"/>
+  <path d="M585 295c-15-45 25-75 55-45 20-50 85-25 75 20" fill="none" stroke="#c98b5b" stroke-width="18" stroke-linecap="round"/>
+  <text x="600" y="660" text-anchor="middle" font-family="Arial,sans-serif" font-size="42" fill="#765039">Bakery Supply</text>
+  <text x="600" y="710" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="#98775f">Imagen no disponible</text>
+</svg>
